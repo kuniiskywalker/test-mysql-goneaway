@@ -6,5 +6,5 @@ docker-compose build
 
 # run
 ```
-docker-compose exec php php connect.php
+docker-compose run php connect.php
 ```
